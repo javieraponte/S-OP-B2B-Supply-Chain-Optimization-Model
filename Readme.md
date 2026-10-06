@@ -24,4 +24,4 @@ Para estructurar la red de valor, el proyecto debe abandonar el modelo de tabla 
 
 Para utilizar este proyecto, simplemente ingresa en el link y explora.
 
-[Reporte interactivo en Power BI]([https://github.com/gonzadzz00/Proyectos/blob/main/%23Proyecto3%3A%20Data%20Viz/Sharks%20Incidents%20Reports.pbix](https://app.powerbi.com/view?r=eyJrIjoiMDI2ZjVhMzYtZTU2Zi00ZTBhLWExNGMtZGEwZTY4YmQ0MTljIiwidCI6IjUxNTFhYTM5LTA4MTgtNDEwZi1hNGRhLTE4ZjE4ODM1ZGExMiIsImMiOjR9&pageName=79997da158b9e631e324))📊
+[Reporte interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDI2ZjVhMzYtZTU2Zi00ZTBhLWExNGMtZGEwZTY4YmQ0MTljIiwidCI6IjUxNTFhYTM5LTA4MTgtNDEwZi1hNGRhLTE4ZjE4ODM1ZGExMiIsImMiOjR9&pageName=79997da158b9e631e324)
