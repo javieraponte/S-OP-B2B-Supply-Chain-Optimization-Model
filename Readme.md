@@ -17,3 +17,5 @@ Para estructurar la red de valor, el proyecto debe abandonar el modelo de tabla 
 * **Inventario:** Simulación de parámetros logísticos por SKU (Stock de mínimo, Punto de reorden).
 * **BOM:** Estructura de componentes y factores de conversión para explosión de necesidades.
 * **Supplier List:** Asignación de líneas de producción a terceros, definiendo Lead Times (tiempos de entrega) y Yield (rendimiento de producción).
+
+![Data model](schema.png)
